@@ -63,5 +63,4 @@ Now, you're ready to use the UserBot with your customized settings!
 Using the UserBot maliciously or against Telegram's policies can lead to the permanent suspension of your account. Please use these commands responsibly and adhere to Telegram's guidelines.
 
 **Credits:**
-@freakyLuffy
-@TeamEviral
+@freakyLuffy | @TeamEviral
