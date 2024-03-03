@@ -1,0 +1,12 @@
+pyrogram
+tgcrypto
+aiofiles
+pyromod
+python-dotenv
+requests
+sqlalchemy==1.4.27  # Adjust to the latest version compatible with Python 3.12
+psycopg2-binary==2.9.3  # Adjust to the latest version compatible with Python 3.12
+telethon
+cryptg
+aiofiles
+numpy
